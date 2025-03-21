@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "exceljs": "^4.3.0",
+    "jsdom": "^20.0.0"
+  }
+}
